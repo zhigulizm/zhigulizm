@@ -1,0 +1,4 @@
+baseURL = 'https://zhigulizm.hmdw.me/'
+languageCode = 'ru-ru'
+title = 'Zhigulizm'
+theme = 'PaperMod'
