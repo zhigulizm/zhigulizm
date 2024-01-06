@@ -2,7 +2,10 @@
 title: "Работы по кузову"
 date: 2023-09-10T02:42:07+04:00
 draft: false
+ShowPostNavLinks: true
 summary: Зачистил ржавчину и покрасил части кузова
+cover:
+    image: /uploads/body_intro.jpg
 ---
 
 

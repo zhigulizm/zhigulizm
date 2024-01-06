@@ -2,10 +2,10 @@
 title: "Intro"
 date: 2023-04-01T00:18:07+04:00
 draft: false
+ShowPostNavLinks: true
 summary: Короче это мой первый пост в блоге про Жигули 🙂 
 cover:
     image: /uploads/intro.jpg
-
 ---
 
 

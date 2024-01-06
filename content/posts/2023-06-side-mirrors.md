@@ -2,7 +2,10 @@
 title: "Замена зеркал"
 date: 2023-06-08T02:42:07+04:00
 draft: false
+ShowPostNavLinks: true
 summary: Поменял зеркала на нормальные
+cover:
+    image: /uploads/side_mirrors_intro.jpg
 ---
 
 

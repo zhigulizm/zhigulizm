@@ -2,7 +2,10 @@
 title: "Отвез машину в Black Crystal"
 date: 2023-11-30T14:52:07+04:00
 draft: false
+ShowPostNavLinks: true
 summary: Отвез машину в сервис гоночной команды Black Crystal на финальные доработки перед зимним сезоном
+cover:
+    image: /uploads/a_intro.jpg
 ---
 
 

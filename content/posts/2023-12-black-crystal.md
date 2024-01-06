@@ -2,11 +2,12 @@
 title: "Забрал машину из Black Crystal"
 date: 2023-12-14T00:52:07+04:00
 draft: false
+ShowPostNavLinks: true
 summary: Забрал машину из Black Crystal
+cover:
+    image: /uploads/bc_2.jpg
 ---
 
-
-![Ширина передней колеи](/uploads/bc_2.jpg)
 
 ## Доработки
 

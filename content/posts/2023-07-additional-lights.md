@@ -2,7 +2,10 @@
 title: "Дополнительный свет"
 date: 2023-07-10T02:42:07+04:00
 draft: false
+ShowPostNavLinks: true
 summary: Установии дополнительный свет в салоне и светодиодную балку на крышу
+cover:
+    image: /uploads/light_intro.jpg
 ---
 
 
