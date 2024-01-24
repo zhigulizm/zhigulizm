@@ -3,7 +3,7 @@ title: "IDW 1 этап"
 date: 2024-01-24T10:00:07+04:00
 draft: false
 ShowPostNavLinks: true
-summary: Тут пост с результатами первых двух этапов IDW
+summary: Пост о том как я участвовал в первом этапе IDW
 cover:
     image: /uploads/IDW_1.jpg
 ---
